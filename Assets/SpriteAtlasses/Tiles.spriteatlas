@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b773d6f01e38b384f9039727b2fdb638, type: 3}
+    - {fileID: 2800000, guid: 5c464bb3e23e44444ac9284aeff00d6f, type: 3}
+    - {fileID: 2800000, guid: 516392710f27d354190378e06092ff0b, type: 3}
+    - {fileID: 2800000, guid: ae1eb40aab8f2ea4ea30b89c928facdb, type: 3}
+    - {fileID: 2800000, guid: d3003ed324196294da58e6b3d9540cf5, type: 3}
+    - {fileID: 2800000, guid: bc3b093e38b1aef4eb040a5bfadb0206, type: 3}
+    - {fileID: 2800000, guid: f406e4bd700505e489d61aba592e55bc, type: 3}
+    - {fileID: 2800000, guid: 8c665c2ba8e55f74d9b282ea327dab7c, type: 3}
+    - {fileID: 2800000, guid: 28f44ae8f61932046a0d97fbdd14e824, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - b773d6f01e38b384f9039727b2fdb638: 21300000
+    - 516392710f27d354190378e06092ff0b: 21300000
+    - 5c464bb3e23e44444ac9284aeff00d6f: 21300000
+    - d3003ed324196294da58e6b3d9540cf5: 21300000
+    - 28f44ae8f61932046a0d97fbdd14e824: 21300000
+    - ae1eb40aab8f2ea4ea30b89c928facdb: 21300000
+    - 8c665c2ba8e55f74d9b282ea327dab7c: 21300000
+    - f406e4bd700505e489d61aba592e55bc: 21300000
+    - bc3b093e38b1aef4eb040a5bfadb0206: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b773d6f01e38b384f9039727b2fdb638, type: 3}
+  - {fileID: 21300000, guid: 516392710f27d354190378e06092ff0b, type: 3}
+  - {fileID: 21300000, guid: 5c464bb3e23e44444ac9284aeff00d6f, type: 3}
+  - {fileID: 21300000, guid: d3003ed324196294da58e6b3d9540cf5, type: 3}
+  - {fileID: 21300000, guid: 28f44ae8f61932046a0d97fbdd14e824, type: 3}
+  - {fileID: 21300000, guid: ae1eb40aab8f2ea4ea30b89c928facdb, type: 3}
+  - {fileID: 21300000, guid: 8c665c2ba8e55f74d9b282ea327dab7c, type: 3}
+  - {fileID: 21300000, guid: f406e4bd700505e489d61aba592e55bc, type: 3}
+  - {fileID: 21300000, guid: bc3b093e38b1aef4eb040a5bfadb0206, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BlueItem
+  - OrangeItemHorizontal
+  - Cherry
+  - ColorBomb
+  - Honey
+  - GreenItem
+  - Syrup1
+  - YellowItem
+  - Watermelon
+  m_RenderDataMap: {}
+  m_Tag: Tiles
+  m_IsVariant: 0

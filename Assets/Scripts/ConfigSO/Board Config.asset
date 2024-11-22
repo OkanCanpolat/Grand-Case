@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b61ed0a8d37ec4caef52c9d9f77bfe, type: 3}
+  m_Name: Board Config
+  m_EditorClassIdentifier: 
+  TilesToCreate:
+  - {fileID: 4323242136793863523, guid: de04097d708b8864bac32e34b9f78ec2, type: 3}
+  - {fileID: 7953887139146469261, guid: eaa3f4cd2ded55d4cb1d40c3fbcf4797, type: 3}
+  - {fileID: 7732028287300859185, guid: fc809cf6af172c04f86dc5e0134159ab, type: 3}
+  - {fileID: 8968170303992396946, guid: 6dfb856866e70f54e906a5e5a12f7c1e, type: 3}
+  - {fileID: 6598589514109393649, guid: 4de2af9a5848b054e8b891061f9c678a, type: 3}
+  - {fileID: 9095662175351338911, guid: 76d79872683f61944b43249ea682e4b7, type: 3}
+  - {fileID: 8389231939820795413, guid: c87bce1eed2bd634794e1a99e3535646, type: 3}
+  ContainerType: 7
+  MaskPrefab: {fileID: 8412768281180227867, guid: f818b914f0275344b86decc4eb00dcb2, type: 3}
+  RandomBoardSizes:
+  - {x: 5, y: 5}
+  - {x: 7, y: 7}
+  MinForEachType: 3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781a13ef392bab547bdab5d63c04543d, type: 3}
+  m_Name: LoseScreenSoundConfig
+  m_EditorClassIdentifier: 
+  OutOfMovesSound: {fileID: 8300000, guid: b3c704e522cc0e042925623c20676bad, type: 3}
+  OutOfMovesVolume: 1
+  LoseSound: {fileID: 8300000, guid: 4632ef4dab0c1de47a40384698391cec, type: 3}
+  LoseVolume: 1
+  StampSound: {fileID: 8300000, guid: 658b2aa970e07604996ad099ea1d47b5, type: 3}
+  StampVolume: 1
