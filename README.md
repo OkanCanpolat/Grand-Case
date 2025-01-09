@@ -11,3 +11,6 @@
 - Asenkron işlemler için "Coroutine" ve "Task/await" sistemi kullanılmıştır.
 - Build, Profiler kullanılarak çeşitli cihazlarda optimizasyon açısından test edilmiştir. Target FPS 60 olarak ayarlandığında bile sorunsuz şekilde çalışmaktadır.
 - Bazı animasyonlar için iTween kütüphanesi kullanılmıştır.
+
+- [![ Slot + Match - 3 ](https://markdown-videos-api.jorgenkh.no/youtube/KEkrrl8C0dA)](https://youtu.be/KEkrrl8C0dA)
+
